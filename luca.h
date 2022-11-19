@@ -26,8 +26,11 @@ extern "C" {
 using namespace std;
 
 void taaacName(){
+    int i;
+    for(i=0;i<5;i++){
+     cout<<"I'm luca.h";   
+    }
     
-    cout<<"I'm luca.h";
 }
 #endif /* LUCA_H */
 
