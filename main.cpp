@@ -24,6 +24,7 @@ cout<<"Hello BOB ALSTOM";
 cout<<"prova commit";
 
 cout<< "vediamo se ho capito come funziona un commit";
+cout<<"test";
 
 printHeaderName();
 
