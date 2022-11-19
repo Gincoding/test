@@ -23,6 +23,8 @@ int main(int argc, char** argv) {
 cout<<"Hello BOB ALSTOM";
 cout<<"prova commit";
 
+cout<< "vediamo se ho capito come funziona un commit";
+
     return 0;
 }
 
